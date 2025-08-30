@@ -12,14 +12,15 @@ huggingface-hub==0.20.3
 tokenizers==0.15.1
 nltk==3.8.1
 
-# Vector DB
+# Vector DB (ChromaDB + DuckDB + SQLite)
 chromadb==0.4.22
+duckdb==0.9.2
+sqlite-utils==3.35
 
-# ML / Deep Learning (CPU versions for easy install)
-torch==2.1.2+cpu
-torchvision==0.16.2+cpu
-torchaudio==2.1.2+cpu
---extra-index-url https://download.pytorch.org/whl/cpu
+# ML / Deep Learning (CPU versions)
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
 
 # Model runtimes
 onnxruntime==1.16.3
@@ -44,5 +45,5 @@ opentelemetry-sdk==1.22.0
 opentelemetry-semantic-conventions==0.43b0
 opentelemetry-exporter-otlp-proto-grpc==1.22.0
 
-# Kubernetes (optional, if deploying)
-kubernetes==28.1.0
+# Optional (remove if not using Kubernetes)
+# kubernetes==28.1.0
