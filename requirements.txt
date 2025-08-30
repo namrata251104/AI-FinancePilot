@@ -1,0 +1,48 @@
+# Core
+streamlit==1.28.1
+altair==5.2.0
+pandas==2.0.3
+numpy==1.24.3
+
+# AI / NLP
+openai==1.12.0
+transformers==4.37.2
+sentence-transformers==2.2.2
+huggingface-hub==0.20.3
+tokenizers==0.15.1
+nltk==3.8.1
+
+# Vector DB
+chromadb==0.4.22
+
+# ML / Deep Learning (CPU versions for easy install)
+torch==2.1.2+cpu
+torchvision==0.16.2+cpu
+torchaudio==2.1.2+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Model runtimes
+onnxruntime==1.16.3
+
+# API & Backend
+fastapi==0.109.0
+uvicorn==0.25.0
+typer==0.9.0
+httpx==0.25.2
+
+# Logging & Utils
+coloredlogs==15.0.1
+gitpython==3.1.41
+google-auth==2.26.2
+
+# JSON & Validation
+jsonschema==4.20.0
+jsonschema-specifications==2023.12.1
+
+# Observability
+opentelemetry-sdk==1.22.0
+opentelemetry-semantic-conventions==0.43b0
+opentelemetry-exporter-otlp-proto-grpc==1.22.0
+
+# Kubernetes (optional, if deploying)
+kubernetes==28.1.0

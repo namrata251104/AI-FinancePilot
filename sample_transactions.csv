@@ -1,0 +1,54 @@
+date,description,amount
+2024-01-15,Grocery Store - Whole Foods,-127.43
+2024-01-16,Coffee Shop - Starbucks,-4.75
+2024-01-17,Gas Station - Shell,-45.20
+2024-01-18,Salary Deposit,2500.00
+2024-01-19,Restaurant - Pizza Palace,-32.50
+2024-01-22,Electric Bill - PG&E,-89.67
+2024-01-23,Amazon Purchase - Electronics,-245.99
+2024-01-24,Uber Ride,-18.50
+2024-01-25,Gym Membership - Planet Fitness,-24.99
+2024-01-26,Grocery Store - Safeway,-98.76
+2024-01-29,Movie Theater - AMC,-27.00
+2024-01-30,Phone Bill - Verizon,-65.43
+2024-02-01,Rent Payment,-1200.00
+2024-02-02,Coffee Shop - Local Cafe,-6.25
+2024-02-05,Gas Station - Chevron,-52.30
+2024-02-06,Restaurant - Thai Express,-28.75
+2024-02-07,Grocery Store - Trader Joes,-76.82
+2024-02-08,Doctor Visit - Medical Center,-150.00
+2024-02-09,Bookstore - Barnes & Noble,-34.99
+2024-02-12,Internet Bill - Comcast,-79.99
+2024-02-13,Uber Eats - Mexican Food,-22.50
+2024-02-14,Valentine's Dinner - Fancy Restaurant,-125.00
+2024-02-15,Salary Deposit,2500.00
+2024-02-16,Gas Station - Shell,-41.75
+2024-02-19,Clothing Store - Target,-67.89
+2024-02-20,Pharmacy - CVS,-23.45
+2024-02-21,Coffee Shop - Starbucks,-5.50
+2024-02-22,Grocery Store - Whole Foods,-134.67
+2024-02-23,Car Insurance - State Farm,-120.00
+2024-02-26,Restaurant - Sushi Place,-89.50
+2024-02-27,Streaming Service - Netflix,-15.99
+2024-02-28,ATM Withdrawal,-100.00
+2024-03-01,Rent Payment,-1200.00
+2024-03-04,Gas Station - Exxon,-48.90
+2024-03-05,Grocery Store - Kroger,-112.34
+2024-03-06,Coffee Shop - Dunkin,-3.99
+2024-03-07,Freelance Work Payment,750.00
+2024-03-08,Restaurant - Italian Bistro,-56.75
+2024-03-11,Electric Bill - PG&E,-94.23
+2024-03-12,Uber Ride to Airport,-35.00
+2024-03-13,Flight Booking - Delta Airlines,-387.50
+2024-03-14,Hotel Stay - Marriott,-189.99
+2024-03-15,Salary Deposit,2500.00
+2024-03-18,Vacation Dinner - Resort Restaurant,-78.50
+2024-03-19,Souvenir Shop - Gift Items,-45.25
+2024-03-20,Return Flight - Delta Airlines,-0.00
+2024-03-21,Uber Ride from Airport,-32.75
+2024-03-22,Grocery Store - Welcome Back Shop,-89.67
+2024-03-25,Phone Bill - Verizon,-65.43
+2024-03-26,Gas Station - Shell,-44.20
+2024-03-27,Restaurant - Local Diner,-19.99
+2024-03-28,Gym Session - Day Pass,-15.00
+2024-03-29,Coffee Shop - New Place,-7.25
